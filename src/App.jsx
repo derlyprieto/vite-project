@@ -7,8 +7,7 @@ import FuncComponent from './components/FuncComponent'
 
 function App() {
 
-  let integrantes = [ 'Derly', 'Yesid', 'Johan', 'Karina']
-
+  
   return (
     <>
       <ClassComponent/>
